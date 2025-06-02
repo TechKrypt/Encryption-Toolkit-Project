@@ -204,10 +204,17 @@ Follow the interactive steps to set up a remote named `protondrive`.
 
 ---
 
-## Conclusion
-
-This toolkit provides a minimal but functional system for encrypting, verifying, and transferring files securely to and from Proton Drive. With proper GPG key management and logging, this tool can be adapted to fit personal, academic, or professional use cases requiring confidentiality and integrity.
+## Author
+Victor C. Menyuah (Teckrypt)
+Built for secure workflows & cybersecurity project portfolios.
 
 ---
+
+## Disclaimer
+This toolkit is meant for educational, testing, and personal backup purposes. Always ensure your GPG key pair is protected and private keys are securely stored.
+--
+
+## Want to Contribute?
+Fork the repository, submit a pull request, or suggest shell scripting improvements! GUI wrappers, cross-platform support, and advanced logging features are welcome.
 
 

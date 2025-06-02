@@ -1,0 +1,7 @@
+keys/
+*.log
+*.gpg
+*.asc
+decrypted_files/
+encrypted_files/
+signed_files/
